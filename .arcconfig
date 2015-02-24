@@ -1,0 +1,7 @@
+{
+  "phabricator.uri" : "https://kulfi.icehousecorp.com/",
+  "history.immutable" : false,
+  "base" : "arc:upstream, git:merge-base(origin\/master), arc:prompt",
+  "arc.feature.start.default" : "origin/master",
+  "arc.land.onto.default" : "master"
+}
